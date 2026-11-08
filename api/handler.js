@@ -1,4 +1,4 @@
-const PAY_TO = "0x0f328E4713D789A1Ed91e2655572230E51b46645";
+const PAY_TO = "0x34c002e40fd499156340c385f3d1f19011b29942";
 const USDC_BASE = "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913";
 const FACILITATOR = "https://x402.org/facilitator";
 const BASE_RPC = "https://mainnet.base.org";
