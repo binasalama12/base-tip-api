@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/paid", "destination": "/api/handler" },
+    { "source": "/openapi.json", "destination": "/api/handler" },
+    { "source": "/", "destination": "/api/handler" }
+  ]
+}
